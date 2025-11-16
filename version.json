@@ -1,0 +1,27 @@
+{
+  "version": "1.0.4",
+  
+  "force_update": false,
+
+  "downloads": {
+    "telegram": "https://t.me/kanalingiz/123",
+    "direct": "https://yourserver.com/apk/game_1.0.4.apk"
+  },
+
+  "size": "145MB",
+
+  "notes": "• Yangi mashina qo‘shildi\n• Grafik optimizatsiya qilindi\n• Xatoliklar to‘girlandi",
+
+  "maintenance": {
+    "active": false,
+    "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
+  },
+
+  "release_date": "2025-01-10",
+
+  "banner": {
+    "active": true,
+    "image": "https://yourserver.com/images/update_banner.png",
+    "link": "https://t.me/yourchannel"
+  }
+}
