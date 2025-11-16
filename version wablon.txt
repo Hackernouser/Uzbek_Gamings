@@ -1,0 +1,47 @@
+{
+  // O'yinning eng so'nggi versiyasi
+  "version": "1.0.4",
+
+  // Majburiy update (o'yin yangilanmasdan ishlamaydi)
+  // true bo'lsa — o'yinchi majburan yangilaydi
+  "force_update": false,
+
+  // APK yuklab olish manzillari
+  "downloads": {
+    // Telegramga yuklab olish linki
+    "telegram": "https://t.me/kanalingiz/123",
+
+    // To'g'ridan-to'g'ri serverdan yuklab olish
+    "direct": "https://yourserver.com/apk/game_1.0.4.apk"
+  },
+
+  // O'yin o'lchami
+  "size": "145MB",
+
+  // Yangiliklar (update notes)
+  "notes": "• Yangi mashina qo‘shildi\n• Grafik optimizatsiya qilindi\n• Xatoliklar to‘girlandi",
+
+  // Texnik ishlar holati
+  "maintenance": {
+    // true bo'lsa — o'yin vaqtincha ishlamaydi
+    "active": false,
+
+    // Texnik ishlar paytida ko‘rsatiladigan xabar
+    "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
+  },
+
+  // Ushbu versiya chiqgan sana
+  "release_date": "2025-01-10",
+
+  // O'yin ichida reklama banner ko‘rsatish
+  "banner": {
+    // Banner yoqilganmi?
+    "active": true,
+
+    // Banner rasmi URL
+    "image": "https://yourserver.com/images/update_banner.png",
+
+    // Bannerga bosilganda ochiladigan link
+    "link": "https://t.me/yourchannel"
+  }
+}
