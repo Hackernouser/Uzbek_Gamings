@@ -6,7 +6,11 @@
     "direct": "https://yourserver.com/apk/game_1.0.4.apk"
   },
   "size": "145MB",
-  "notes": "• Yangi mashina qo‘shildi\n• Grafik optimizatsiya qilindi\n• Xatoliklar to‘girlandi",
+  "notes": [
+    "Yangi mashina qo‘shildi",
+    "Grafik optimizatsiya qilindi",
+    "Xatoliklar to‘girlandi"
+  ],
   "maintenance": {
     "active": false,
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
