@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "active": true,
+      "url": "https://example.com/video1.mp4",
+      "link": "https://t.me/kanalingiz1"
+    },
+    {
+      "active": true,
+      "url": "https://example.com/video2.mp4",
+      "link": "https://t.me/kanalingiz2"
+    },
+    {
+      "active": true,
+      "url": "https://example.com/video3.mp4",
+      "link": "https://t.me/kanalingiz3"
+    }
+  ]
+}
