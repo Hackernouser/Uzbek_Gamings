@@ -1,24 +1,24 @@
 {
-  "version": "1.0.5",                               // O'yin versiyasi
-  "force_update": false,                            // true bo'lsa majburiy yangilanish
+  "version": "1.0.5",                              
+  "force_update": false,                            
   "downloads": {
-    "telegram": "https://t.me/kanalingiz/123",      // Telegram link orqali yuklash
-    "direct": "https://yourserver.com/apk/game_1.0.5.apk" // To‘g‘ridan-to‘g‘ri yuklash linki
+    "telegram": "https://t.me/kanalingiz/123",      
+    "direct": "https://yourserver.com/apk/game_1.0.5.apk" 
   },
-  "size": "150MB",                                  // APK hajmi
+  "size": "150MB",                                 
   "notes": [
-    "Yangi mashina qo‘shildi",                      // Qo‘shimcha yangilik kiritish mumkin
+    "Yangi mashina qo‘shildi",                     
     "Grafik optimizatsiya qilindi",
     "Xatoliklar to‘g‘irlandi"
   ],
   "maintenance": {
-    "active": false,                                // true bo‘lsa texnik ishlar oynasi ko‘rsatiladi
+    "active": false,                               
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
-  "release_date": "2025-11-20",                     // Yangilanish chiqish sanasi
+  "release_date": "2025-11-20",                     
   "banner": {
-    "active": true,                                 // Banner ko‘rsatiladimi
-    "image": "https://yourserver.com/images/banner.png", // Banner rasmi URL
-    "link": "https://t.me/kanalingiz"              // Banner bosilganda ochiladigan link
+    "active": true,                                
+    "image": "https://yourserver.com/images/banner.png", 
+    "link": "https://t.me/kanalingiz"             
   }
 }
