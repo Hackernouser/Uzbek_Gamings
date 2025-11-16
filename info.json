@@ -16,9 +16,16 @@
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
   "release_date": "2025-11-20",                     
-  "banner": {
-    "active": true,                                
-    "image": "https://static.vecteezy.com/system/resources/previews/000/701/690/non_2x/abstract-polygonal-banner-background-vector.jpg", 
-    "link": "https://t.me/kanalingiz"             
-  }
+  "banners": [   
+    {
+      "active": true,
+      "image": "https://static.vecteezy.com/system/resources/previews/000/701/690/non_2x/abstract-polygonal-banner-background-vector.jpg",
+      "link": "https://t.me/kanalingiz"
+    },
+    {
+      "active": true,
+      "image": "https://i.pinimg.com/originals/0c/b9/53/0cb9533bf1c4edf5d68872dd429f770c.jpg",
+      "link": "https://t.me/kanalingiz2"
+    }
+  ]
 }
