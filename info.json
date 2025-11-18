@@ -12,7 +12,7 @@
     "Salom hammaga"
   ],
   "maintenance": {
-    "active": true,                               
+    "active": false,                               
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
   "release_date": "2025-11-18",                     
