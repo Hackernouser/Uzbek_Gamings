@@ -2,7 +2,7 @@
   "version": "1.0.5",                              
   "force_update": false,                            
   "downloads": {
-    "telegram": "https://t.me/kanalingiz/123",      
+    "telegram": "https://t.me/Uzbek_Gamings",      
     "direct": "https://yourserver.com/apk/game_1.0.5.apk" 
   },
   "size": "150MB",                                 
@@ -19,12 +19,12 @@
   "banners": [   
     {
       "active": true,
-      "image": "https://static.vecteezy.com/system/resources/previews/000/701/690/non_2x/abstract-polygonal-banner-background-vector.jpg",
-      "link": "https://t.me/kanalingiz"
+      "image": "https://i.pinimg.com/736x/96/d7/51/96d7511783a73779a1a40f07c9511d44.jpg",
+      "link": "https://t.me/Uzbek_Gamings"
     },
     {
       "active": true,
-      "image": "https://i.pinimg.com/originals/0c/b9/53/0cb9533bf1c4edf5d68872dd429f770c.jpg",
+      "image": "https://i.pinimg.com/originals/2e/4d/2f/2e4d2f0ffe937baaf07e32bfee3d694f.jpg",
       "link": "https://t.me/kanalingiz2"
     }
   ]
