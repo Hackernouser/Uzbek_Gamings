@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",                              
+  "version": "1.0.6",                              
   "force_update": false,                            
   "downloads": {
-    "telegram": "https://t.me/Uzbek_Gamings",      
+    "telegram": "https://t.me/Uzbek_Gaming",      
     "direct": "https://yourserver.com/apk/game_1.0.5.apk" 
   },
   "size": "150MB",                                 
@@ -20,7 +20,7 @@
     {
       "active": true,
       "image": "https://i.pinimg.com/736x/96/d7/51/96d7511783a73779a1a40f07c9511d44.jpg",
-      "link": "https://t.me/Uzbek_Gamings"
+      "link": "https://t.me/Uzbek_Gaming"
     },
     {
       "active": true,
