@@ -9,13 +9,13 @@
   "notes": [
     "Yangi mashina qo‘shildi",                     
     "Grafik optimizatsiya qilindi",
-    "Xatoliklar to‘g‘irlandi"
+    "Salom hammaga"
   ],
   "maintenance": {
     "active": true,                               
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
-  "release_date": "2025-11-20",                     
+  "release_date": "2025-11-18",                     
   "banners": [   
     {
       "active": true,
