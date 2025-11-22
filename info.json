@@ -1,21 +1,20 @@
 {
-  "version": "3.1.8",                              
+  "version": "3.1.9",                              
   "force_update": false,                            
   "downloads": {
-    "telegram": "https://t.me/Uzbek_Gamings",      
-    "direct": "https://download2279.mediafire.com/3kbhmh5xacigs3VpxsI3L4ppd1Hqi7Syz0lwRThTEwNIXd-E1JkxCH2KvlizdochCThyUxVRp4yGu65evZ-ditA1D63JaZ7P-On0ze2WWwJDr4waDiExy5xgNDMiGFBQxBmchsdWeXEY0QRo7SKggnlitPoRniDMgTV9gOL_nMi79g/trws5x0tm3x3kv9/Uzbek+Gamings+V8+Upgrade.apk" 
+    "telegram": "https://t.me/Uzbek_Gamings/718",      
+    "direct": "https://www.instagram.com/uzbek_oyinlari?igsh=dDZ6a3k0dGlyNzJr" 
   },
   "size": "150MB",                                 
   "notes": [
-    "Yangi mashina qo‘shildi",                     
-    "Grafik optimizatsiya qilindi",
-    "Test habar"
+    "Baglar togirlandi",                     
+    "Yangilikni kutib olinng"
   ],
   "maintenance": {
-    "active": true,                               
+    "active": false,                               
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
-  "release_date": "2025-11-25",                     
+  "release_date": "2025-11-30",                     
   "banners": [   
     {
       "active": true,
