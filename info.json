@@ -1,9 +1,9 @@
 {
-  "version": "1.1.9",                              
+  "version": "3.1.8",                              
   "force_update": false,                            
   "downloads": {
     "telegram": "https://t.me/Uzbek_Gamings",      
-    "direct": "https://yourserver.com/apk/game_1.0.5.apk" 
+    "direct": "https://download2279.mediafire.com/3kbhmh5xacigs3VpxsI3L4ppd1Hqi7Syz0lwRThTEwNIXd-E1JkxCH2KvlizdochCThyUxVRp4yGu65evZ-ditA1D63JaZ7P-On0ze2WWwJDr4waDiExy5xgNDMiGFBQxBmchsdWeXEY0QRo7SKggnlitPoRniDMgTV9gOL_nMi79g/trws5x0tm3x3kv9/Uzbek+Gamings+V8+Upgrade.apk" 
   },
   "size": "150MB",                                 
   "notes": [
@@ -15,17 +15,17 @@
     "active": true,                               
     "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
   },
-  "release_date": "2025-11-20",                     
+  "release_date": "2025-11-25",                     
   "banners": [   
     {
       "active": true,
       "image": "https://i.pinimg.com/736x/96/d7/51/96d7511783a73779a1a40f07c9511d44.jpg",
-      "link": "https://t.me/Uzbek_Gaming"
+      "link": "https://t.me/Uzbek_Gamings"
     },
     {
       "active": true,
       "image": "https://i.pinimg.com/originals/2e/4d/2f/2e4d2f0ffe937baaf07e32bfee3d694f.jpg",
-      "link": "https://t.me/kanalingiz2"
+      "link": "https://t.me/Renderistanuz"
     }
   ]
 }
