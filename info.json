@@ -13,8 +13,8 @@
     "Hammaga raxmat !"
   ],
   "maintenance": {
-    "active": false,                               
-    "message": "Serverda texnik ishlar olib borilyapti. Iltimos keyinroq urinib ko‘ring."
+    "active": true,                               
+    "message": "Oyin ustida texnik ishlar olib borilmoqda tez orada boomba yangilik boladi."
   },
   "release_date": "2025-11-30",                     
   "banners": [   
