@@ -10,13 +10,14 @@
     "Yangi karta qoshilmoqda.!",                     
     "Yangi yilga tayyorgarlik.!",
     "Telegramda aktiv bolib turinglar oyinni yaqin kunlarda yangilaymiz.!",
+    "Oyinga megalkalar ham qoshilmoqda..",
     "Hammaga raxmat !"
   ],
   "maintenance": {
     "active": true,                               
     "message": "Oyin ustida texnik ishlar olib borilmoqda tez orada boomba yangilik boladi."
   },
-  "release_date": "2025-11-30",                     
+  "release_date": "2025-12-01",                     
   "banners": [   
     {
       "active": true,
