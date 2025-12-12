@@ -1,23 +1,23 @@
 {
-  "version": "3.2.0",                              
+  "version": "3.2.5",                              
   "force_update": false,                            
   "downloads": {
     "telegram": "https://t.me/Uzbek_Gamings/718",      
     "direct": "https://t.me/Uzbek_Gamings/718" 
   },
-  "size": "392MB",                                 
+  "size": "493MB",                                 
   "notes": [
     "Oyin yangilandi telegramga kirib yuklab olilar teez..!!!",
-    "Yangi karta qoshilmoqda.!",                     
-    "Telegramda aktiv bolib turinglar oyinni yaqin kunlarda yangilaymiz.!",
-    "Oyinga megalkalar ham qoshilmoqda..",
-    "Hammaga raxmat !"
+    "Online Funksiya qishildi.!",
+    "Endi multiplayerda koproq mashinalar bor.!",
+    "Telegram Kanalga obuna bolinglar🫠",
+    "Telegram tugmasini bosib kanalga kirishilar mumkun"
   ],
   "maintenance": {
-    "active": true,                               
+    "active": false,                               
     "message": "Oyin ustida texnik ishlar olib borilmoqda tez orada boomba yangilik boladi."
   },
-  "release_date": "2025-12-01",                     
+  "release_date": "2026-02-01",                     
   "banners": [   
     {
       "active": true,
